@@ -23,13 +23,19 @@ The goal of this dashboard is to evaluate team performance, driver consistency, 
 # Key Insights
 
 Top-performing teams consistently score high in points, wins, and podium finishes, showing a balance between driver skill and car reliability.
+
 Driver reliability and finish rate strongly correlate with overall team ranking — proving that finishing consistently is more valuable than occasional wins.
+
 DNF (Did Not Finish) breakdowns highlight mechanical weaknesses — for example, some teams lose many points due to engine or gearbox failures.
+
 Teams with balanced point contribution between both drivers perform better overall — indicating teamwork is as vital as individual skill.
+
 Constructor nationality analysis shows that European teams dominate performance metrics, reflecting resource advantage and engineering excellence.
+
 Average finishing position provides a quick glance at competitiveness — lower averages indicate podium contention throughout the season.
 
-# Example Visual (Ferrari, Aston Martion and Red Bull)
+
+# Example Visual (Ferrari, Aston Martin and Red Bull)
 <img width="1414" height="789" alt="Ferrari" src="https://github.com/user-attachments/assets/1d27273e-1626-4b40-878f-33070ae95248" />
 <img width="1398" height="787" alt="Aston Martin" src="https://github.com/user-attachments/assets/0f8555fb-cf61-46c7-9d5f-823af4fd76a6" />
 <img width="1408" height="789" alt="Red Bull" src="https://github.com/user-attachments/assets/a87c8290-3af8-4f88-ba6c-6efc22d93272" />
